@@ -26,7 +26,7 @@ Most of my public work lives at [@DeepLcom](https://github.com/DeepLcom).
 
 ### Stack
 
-TypeScript · Python · C# · C++ · Rust (hobbyist) · PHP · Java
+JS/TS · Python · C# · C/C++ · Rust (hobbyist) · PHP · Java
 
 ---
 
