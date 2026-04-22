@@ -16,11 +16,11 @@ Most of my public work lives at [@DeepLcom](https://github.com/DeepLcom).
 
 | Library | Stars | Downloads |
 |---------|-------|-----------|
-| [deepl-python](https://github.com/DeepLcom/deepl-python) | ![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-python?style=flat-square&color=yellow) | ![Downloads](https://img.shields.io/pypi/dm/deepl?style=flat-square&label=PyPI%2Fmo) |
-| [deepl-node](https://github.com/DeepLcom/deepl-node) | ![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-node?style=flat-square&color=yellow) | ![Downloads](https://img.shields.io/npm/dm/deepl-node?style=flat-square&label=npm%2Fmo) |
-| [deepl-php](https://github.com/DeepLcom/deepl-php) | ![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-php?style=flat-square&color=yellow) | ![Downloads](https://img.shields.io/packagist/dm/deeplcom/deepl-php?style=flat-square&label=Packagist%2Fmo) |
-| [deepl-dotnet](https://github.com/DeepLcom/deepl-dotnet) | ![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-dotnet?style=flat-square&color=yellow) | ![Downloads](https://img.shields.io/nuget/dt/DeepL.net?style=flat-square&label=NuGet%20total) |
-| [deepl-java](https://github.com/DeepLcom/deepl-java) | ![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-java?style=flat-square&color=yellow) | ![Maven does not list downloads](https://img.shields.io/badge/Maven-unavailable-lightgrey?style=flat-square) |
+| [deepl-python](https://github.com/DeepLcom/deepl-python) | [![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-python?style=flat-square&color=yellow)](https://github.com/DeepLcom/deepl-python/stargazers) | [![Downloads](https://img.shields.io/pypi/dm/deepl?style=flat-square&label=PyPI%2Fmo)](https://pypistats.org/packages/deepl) |
+| [deepl-node](https://github.com/DeepLcom/deepl-node) | [![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-node?style=flat-square&color=yellow)](https://github.com/DeepLcom/deepl-node/stargazers) | [![Downloads](https://img.shields.io/npm/dm/deepl-node?style=flat-square&label=npm%2Fmo)](https://www.npmjs.com/package/deepl-node) |
+| [deepl-php](https://github.com/DeepLcom/deepl-php) | [![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-php?style=flat-square&color=yellow)](https://github.com/DeepLcom/deepl-php/stargazers) | [![Downloads](https://img.shields.io/packagist/dm/deeplcom/deepl-php?style=flat-square&label=Packagist%2Fmo)](https://packagist.org/packages/deeplcom/deepl-php) |
+| [deepl-dotnet](https://github.com/DeepLcom/deepl-dotnet) | [![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-dotnet?style=flat-square&color=yellow)](https://github.com/DeepLcom/deepl-dotnet/stargazers) | [![Downloads](https://img.shields.io/nuget/dt/DeepL.net?style=flat-square&label=NuGet%20total)](https://www.nuget.org/packages/DeepL.net) |
+| [deepl-java](https://github.com/DeepLcom/deepl-java) | [![Stars](https://img.shields.io/github/stars/DeepLcom/deepl-java?style=flat-square&color=yellow)](https://github.com/DeepLcom/deepl-java/stargazers) | ![Maven does not list downloads](https://img.shields.io/badge/Maven-unavailable-lightgrey?style=flat-square) |
 
 ---
 
